@@ -1,5 +1,3 @@
-
-
 #Verificar se uma palavra é um palíndromo: Implemente um programa que verifique se uma palavra é um palíndromo, ou seja, se pode ser lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.
 
 
@@ -19,4 +17,3 @@ if palavra == palavra[::-1]: #Esta é uma forma de slicing em Python, onde [::-1
     print("Cacetada a oração/palavra é braba")
 else:
     print("que pena")
-
