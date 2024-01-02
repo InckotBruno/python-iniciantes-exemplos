@@ -1,2 +1,2 @@
-# python-iniciantes-exemplos-
+# python-iniciantes-exemplos
 exercícios iniciantes python
